@@ -45,4 +45,4 @@
 
 The bot will begin refreshing the page at your desired interval (seconds) and you will be sent a screenshot of the available test slots when a change in availability is detected.
 
-<img src="https://github.com/cplAloysius/WA_PDA_Check/blob/master/avail.png" alt="img" width="400"/>
+<img src="https://user-images.githubusercontent.com/99251110/213735947-eeb35860-2e3e-442e-a7d5-d386ac7de085.jpeg" alt="img" width="400"/>
