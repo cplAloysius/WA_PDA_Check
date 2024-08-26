@@ -15,7 +15,7 @@
       password = 'xxx'
       ``` 
  3. Get your telegram chat id with [this telegram bot](https://t.me/rawdatabot?start=botostore)
- 4. Create a telegram bot using bot father, obtain the bot token and start the bot
+ 4. Create a telegram bot using Bot Father, obtain the bot token and start the bot
  5. Enter your chat id and bot token in [/config/definitions.py](https://github.com/cplAloysius/WA_PDA_Checker/blob/main/config/definitions.py)
 
        ```
